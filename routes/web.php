@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+// Route::get('view', 'FileController@view');
+// Route::get('get/{filename}', 'FileController@getFile')->name('getfile');

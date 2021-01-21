@@ -25,5 +25,9 @@
         "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
         "vue": "^3.0.2",
         "vue-loader": "^16.0.0-beta.9"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.15.2",
+        "vue-router": "^4.0.3"
     }
 }

@@ -1,8 +1,8 @@
 <template>
 
   <main class="skills">
-    <section class="relative block" style="height: 500px;">
-      <div class="absolute top-0 w-full h-full bg-center bg-cover backCover">
+    <section class="relative block" style="height: 540px;">
+      <div class="absolute top-0 w-full h-full bg-center bg-cover back-cover">
         <span id="blackOverlay"
               class="w-full h-full absolute opacity-50 bg-black"></span>
       </div>
@@ -39,12 +39,12 @@
                 <div class="flex justify-center py-4 lg:pt-4 pt-8">
                   <div class="mr-4 p-3 text-center">
                     <router-link to="/education"
-                                 class="inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-yellow-600 hover:bg-yellow-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline">
+                                 class="inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-yellow-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline">
                       Education</router-link>
                   </div>
                   <div class="mr-4 p-3 text-center">
                     <router-link to="/skills"
-                                 class="inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-yellow-600 hover:bg-yellow-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline">
+                                 class="inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-yellow-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline">
                       Skills</router-link>
                   </div>
                 </div>
@@ -53,41 +53,94 @@
                 <div class="flex justify-center py-4 lg:pt-4 pt-8">
                   <div class="mr-4 p-3 text-center">
                     <router-link to="/"
-                                 class="inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-yellow-600 hover:bg-yellow-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline">
+                                 class="inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-yellow-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline">
                       Home</router-link>
                   </div>
                   <div class="mr-4 p-3 text-center">
                     <router-link to="/experience"
-                                 class="inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-yellow-600 hover:bg-yellow-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline">
+                                 class="inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-yellow-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline">
                       Experience</router-link>
                   </div>
                 </div>
               </div>
             </div>
-            <div class="text-center mt-2">
-              <h3 class="text-4xl font-semibold leading-normal mb-2 text-gray-800 mb-2">
-                Ahmed Amged
-              </h3>
-              <div class="text-sm leading-normal mt-0 mb-2 text-gray-500 font-bold uppercase">
-                <i class="fas fa-map-marker-alt mr-2 text-lg text-gray-500"></i> Cairo, Egypt
-              </div>
-              <div class="mb-2 text-gray-700 mt-10">
-                <i class="fas fa-briefcase mr-2 text-lg text-gray-500"></i
-                  >Front End Developer
+            <div class="flex flex-wrap">
+              <div class="lg:w-1/3 text-center mt-5 mb-16 px-20">
+                <div class="flex flex-wrap shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">HTML5</p>
+                  <img src="./../../static/img/html5.png" class="w-10 h-10 opacity-25 ml-auto" alt="HTML5">
                 </div>
-                <div class="mb-2 text-gray-700">
-                  <i class="fas fa-university mr-2 text-lg text-gray-500"></i
-                  >Faculty of Computers and Artificial Intelligence, Cairo University
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">CSS3</p>
+                  <img src="./../../static/img/css33.png" class="w-9 h-9 opacity-25 ml-auto" alt="CSS3">
                 </div>
-              </div>
-              <div class="mt-10 py-10 border-t border-gray-300 text-center">
-                <div class="flex flex-wrap justify-center">
-                  <div class="w-full lg:w-9/12 px-4">
-                    <p class="mb-4 text-lg leading-relaxed text-gray-800">
-                      With a strong technical skill-set, attention to details, and 2+ years of Front-end development experience, individual wants to achieve more of digital magic and elevate user experience.
-                    </p>
-                    <router-link to="/about" class="inline-flex items-center justify-center px-5 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-yellow-600 hover:bg-yellow-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline">
-                      Show more</router-link>
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">JavaScript</p>
+                  <img src="./../../static/img/javascript.png" class="w-9 h-9 opacity-25 ml-auto" alt="JavaScript">
+                </div>
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">ES6</p>
+                  <img src="./../../static/img/es6.png" class="w-9 h-9 opacity-25 ml-auto" alt="ES6">
+                </div>
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">Angular 2+</p>
+                  <img src="./../../static/img/angular.png" class="w-9 h-9 opacity-25 ml-auto" alt="Angular 2+">
+                </div>
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">Git</p>
+                  <img src="./../../static/img/git.png" class="w-9 h-9 opacity-25 ml-auto" alt="Git">
+                </div>
+                </div>
+                <div class="lg:w-1/3 mt-5 mb-16 px-20 border-l border-gray-300 text-center">
+                  <div class="flex flex-wrap shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                    <p class="text-lg font-semibold leading-normal mt-2">Vue3</p>
+                    <img src="./../../static/img/vue.png" class="w-10 h-10 opacity-25 ml-auto" alt="Vue3">
+                  </div>
+                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                    <p class="text-lg font-semibold leading-normal mt-2">Tailwind CSS</p>
+                    <img src="./../../static/img/tailwind.png" class="w-12 h-9 opacity-25 ml-auto" alt="Tailwind">
+                  </div>
+                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                    <p class="text-lg font-semibold leading-normal mt-2">Firebase</p>
+                    <img src="./../../static/img/firebase.png" class="w-9 h-9 opacity-25 ml-auto" alt="Firebase">
+                  </div>
+                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                    <p class="text-lg font-semibold leading-normal mt-2">Typescript</p>
+                    <img src="./../../static/img/typescript.png" class="w-9 h-9 opacity-25 ml-auto" alt="Typescript">
+                  </div>
+                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                    <p class="text-lg font-semibold leading-normal mt-2">Bootstrap</p>
+                    <img src="./../../static/img/bootstrap.png" class="w-9 h-9 opacity-25 ml-auto" alt="Bootstrap">
+                  </div>
+                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                    <p class="text-lg font-semibold leading-normal mt-2">Gulp js</p>
+                    <img src="./../../static/img/gulp.png" class="w-9 h-9 opacity-25 ml-auto" alt="Gulp js">
+                  </div>
+                </div>
+                <div class="lg:w-1/3 mt-5 mb-16 px-20 border-l border-gray-300 text-center">
+                  <div class="flex flex-wrap shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                    <p class="text-lg font-semibold leading-normal mt-2">Jasmine</p>
+                    <img src="./../../static/img/jasmine-unit-testing.png" class="w-10 h-10 opacity-25 ml-auto" alt="Jasmine">
+                  </div>
+                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                    <p class="text-lg font-semibold leading-normal mt-2">Surge</p>
+                    <img src="./../../static/img/surge.png" class="w-9 h-9 opacity-25 ml-auto" alt="Surge">
+                  </div>
+                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                    <p class="text-lg font-semibold leading-normal mt-2">AJAX</p>
+                    <img src="./../../static/img/ajax.png" class="h-9 opacity-25 ml-auto" alt="AJAX">
+                  </div>
+                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                    <p class="text-lg font-semibold leading-normal mt-2">jQuery</p>
+                    <img src="./../../static/img/jquery.png" class="w-9 h-9 opacity-25 ml-auto" alt="jQuery">
+                  </div>
+                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                    <p class="text-lg font-semibold leading-normal mt-2">WordPress</p>
+                    <img src="./../../static/img/wordpress.png" class="w-9 h-9 opacity-25 ml-auto" alt="WordPress">
+                  </div>
+                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                    <p class="text-lg font-semibold leading-normal mt-2">Illustrator</p>
+                    <img src="./../../static/img/adobe-illustrator.png" class="w-9 h-9 opacity-25 ml-auto" alt="Illustrator">
                   </div>
                 </div>
               </div>
@@ -110,7 +163,7 @@
 
 <style>
 
-  .backCover {
+  .back-cover {
     background: url('./../../static/img/heroo.jpg') no-repeat center center / cover;
   }
 

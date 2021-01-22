@@ -28692,7 +28692,7 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 var ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_static_img_heroo_jpg__WEBPACK_IMPORTED_MODULE_2__.default);
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.backCover {\r\n    background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") no-repeat center center / cover;\n}\r\n\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.back-cover {\r\n    background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") no-repeat center center / cover;\n}\r\n\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -28725,7 +28725,7 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 var ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_static_img_heroo_jpg__WEBPACK_IMPORTED_MODULE_2__.default);
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.backCover {\r\n    background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") no-repeat center center / cover;\n}\r\n\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.back-cover {\r\n    background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") no-repeat center center / cover;\n}\r\n\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -28758,7 +28758,7 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 var ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_static_img_heroo_jpg__WEBPACK_IMPORTED_MODULE_2__.default);
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.backCover {\r\n    background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") no-repeat center center / cover;\n}\r\n\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.back-cover {\r\n    background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") no-repeat center center / cover;\n}\r\n\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -28791,7 +28791,7 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 var ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_static_img_heroo_jpg__WEBPACK_IMPORTED_MODULE_2__.default);
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.backCover {\r\n    background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") no-repeat center center / cover;\n}\r\n\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.back-cover {\r\n    background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") no-repeat center center / cover;\n}\r\n\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -29182,6 +29182,24 @@ async function asyncWalk(
 
 /***/ }),
 
+/***/ "./resources/static/img/adobe-illustrator.png":
+/*!****************************************************!*\
+  !*** ./resources/static/img/adobe-illustrator.png ***!
+  \****************************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/adobe-illustrator.png?e4aa21828f211d10f249a2559359b735");
+
+/***/ }),
+
 /***/ "./resources/static/img/ahmed-800x800.jpg":
 /*!************************************************!*\
   !*** ./resources/static/img/ahmed-800x800.jpg ***!
@@ -29200,6 +29218,258 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/static/img/ahmed-amged.png":
+/*!**********************************************!*\
+  !*** ./resources/static/img/ahmed-amged.png ***!
+  \**********************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/ahmed-amged.png?31a3ca79b4a2b552e1d4c434478aee4b");
+
+/***/ }),
+
+/***/ "./resources/static/img/ajax.png":
+/*!***************************************!*\
+  !*** ./resources/static/img/ajax.png ***!
+  \***************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/ajax.png?8488db770d4c956abe911d6d12267d96");
+
+/***/ }),
+
+/***/ "./resources/static/img/aladdos.png":
+/*!******************************************!*\
+  !*** ./resources/static/img/aladdos.png ***!
+  \******************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/aladdos.png?eb0bf517902b290207e0c1a9339b9617");
+
+/***/ }),
+
+/***/ "./resources/static/img/am-stones.png":
+/*!********************************************!*\
+  !*** ./resources/static/img/am-stones.png ***!
+  \********************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/am-stones.png?68f9aebe7d3b5bdb147ef887e4e9527e");
+
+/***/ }),
+
+/***/ "./resources/static/img/angular.png":
+/*!******************************************!*\
+  !*** ./resources/static/img/angular.png ***!
+  \******************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/angular.png?16320d23fe5c1065679ea1db4178a5fc");
+
+/***/ }),
+
+/***/ "./resources/static/img/arcade-game.png":
+/*!**********************************************!*\
+  !*** ./resources/static/img/arcade-game.png ***!
+  \**********************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/arcade-game.png?ec8ee6b0771c3f9b9421287b39c376ea");
+
+/***/ }),
+
+/***/ "./resources/static/img/avalanche.png":
+/*!********************************************!*\
+  !*** ./resources/static/img/avalanche.png ***!
+  \********************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/avalanche.png?e1b45fad3bef30f9583cf47c8f0ab57d");
+
+/***/ }),
+
+/***/ "./resources/static/img/bootstrap.png":
+/*!********************************************!*\
+  !*** ./resources/static/img/bootstrap.png ***!
+  \********************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/bootstrap.png?ea63e8618d3ea2982e19ddd3fc360e93");
+
+/***/ }),
+
+/***/ "./resources/static/img/css33.png":
+/*!****************************************!*\
+  !*** ./resources/static/img/css33.png ***!
+  \****************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/css33.png?bacf0c3000cf0c27277ec22c6b8327f1");
+
+/***/ }),
+
+/***/ "./resources/static/img/elsewedy-electric.png":
+/*!****************************************************!*\
+  !*** ./resources/static/img/elsewedy-electric.png ***!
+  \****************************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/elsewedy-electric.png?ea26eecd3192ffbac6807226ab7cfee3");
+
+/***/ }),
+
+/***/ "./resources/static/img/es6.png":
+/*!**************************************!*\
+  !*** ./resources/static/img/es6.png ***!
+  \**************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/es6.png?e86eda7eb2880c2f909e2f4bec0764c6");
+
+/***/ }),
+
+/***/ "./resources/static/img/firebase.png":
+/*!*******************************************!*\
+  !*** ./resources/static/img/firebase.png ***!
+  \*******************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/firebase.png?9cfefdfdcc31ade445e999482635d0f3");
+
+/***/ }),
+
+/***/ "./resources/static/img/git.png":
+/*!**************************************!*\
+  !*** ./resources/static/img/git.png ***!
+  \**************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/git.png?34e40bce6a356649b7f9c3b472f0815a");
+
+/***/ }),
+
+/***/ "./resources/static/img/gulp.png":
+/*!***************************************!*\
+  !*** ./resources/static/img/gulp.png ***!
+  \***************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/gulp.png?118b497c5d61c607e7f91aa8c1b50487");
+
+/***/ }),
+
 /***/ "./resources/static/img/heroo.jpg":
 /*!****************************************!*\
   !*** ./resources/static/img/heroo.jpg ***!
@@ -29215,6 +29485,384 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/heroo.jpg?954a914f0f29c7b0b4414b72c609a066");
+
+/***/ }),
+
+/***/ "./resources/static/img/hr-management.png":
+/*!************************************************!*\
+  !*** ./resources/static/img/hr-management.png ***!
+  \************************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/hr-management.png?35d1aaceb9406df9857c37273764f87d");
+
+/***/ }),
+
+/***/ "./resources/static/img/html5.png":
+/*!****************************************!*\
+  !*** ./resources/static/img/html5.png ***!
+  \****************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/html5.png?3db2790cbe3530d14ad29abbf3ddd9d7");
+
+/***/ }),
+
+/***/ "./resources/static/img/hurghada-tours.png":
+/*!*************************************************!*\
+  !*** ./resources/static/img/hurghada-tours.png ***!
+  \*************************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/hurghada-tours.png?8317d181944589417f3c7dc6aab1b426");
+
+/***/ }),
+
+/***/ "./resources/static/img/jasmine-unit-testing.png":
+/*!*******************************************************!*\
+  !*** ./resources/static/img/jasmine-unit-testing.png ***!
+  \*******************************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/jasmine-unit-testing.png?be141358644894cea64d6ed333bdbcd9");
+
+/***/ }),
+
+/***/ "./resources/static/img/jasmine.png":
+/*!******************************************!*\
+  !*** ./resources/static/img/jasmine.png ***!
+  \******************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/jasmine.png?2c1063a8c313e6a010d8ebcd6b289dfe");
+
+/***/ }),
+
+/***/ "./resources/static/img/javascript.png":
+/*!*********************************************!*\
+  !*** ./resources/static/img/javascript.png ***!
+  \*********************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/javascript.png?b3e5d4ddbea9e43873204ab2210d4f5d");
+
+/***/ }),
+
+/***/ "./resources/static/img/jquery.png":
+/*!*****************************************!*\
+  !*** ./resources/static/img/jquery.png ***!
+  \*****************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/jquery.png?226920740d21f32fea8bb6e4bbc37ef4");
+
+/***/ }),
+
+/***/ "./resources/static/img/kol-youm.png":
+/*!*******************************************!*\
+  !*** ./resources/static/img/kol-youm.png ***!
+  \*******************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/kol-youm.png?8388570003998cfb0d879f9fbbb907b6");
+
+/***/ }),
+
+/***/ "./resources/static/img/matching-game.png":
+/*!************************************************!*\
+  !*** ./resources/static/img/matching-game.png ***!
+  \************************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/matching-game.png?f694b6663c2792f51ea4e492bb6d52e0");
+
+/***/ }),
+
+/***/ "./resources/static/img/modarsy.png":
+/*!******************************************!*\
+  !*** ./resources/static/img/modarsy.png ***!
+  \******************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/modarsy.png?203d9ae01ad5f074f855bdbd018b3e48");
+
+/***/ }),
+
+/***/ "./resources/static/img/mohamy.png":
+/*!*****************************************!*\
+  !*** ./resources/static/img/mohamy.png ***!
+  \*****************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/mohamy.png?e472ce24ffa4d7e54c4b41debe6972ef");
+
+/***/ }),
+
+/***/ "./resources/static/img/mohannad-bahnasy.png":
+/*!***************************************************!*\
+  !*** ./resources/static/img/mohannad-bahnasy.png ***!
+  \***************************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/mohannad-bahnasy.png?6db3cbe3e5d0cb9ded1dab1f36be28fe");
+
+/***/ }),
+
+/***/ "./resources/static/img/mouja-telecom.png":
+/*!************************************************!*\
+  !*** ./resources/static/img/mouja-telecom.png ***!
+  \************************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/mouja-telecom.png?bc8649716b203db8db1fa8067d970213");
+
+/***/ }),
+
+/***/ "./resources/static/img/noor-azzony.png":
+/*!**********************************************!*\
+  !*** ./resources/static/img/noor-azzony.png ***!
+  \**********************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/noor-azzony.png?3761aa320c8936479a40a703c1636d08");
+
+/***/ }),
+
+/***/ "./resources/static/img/qudraty.png":
+/*!******************************************!*\
+  !*** ./resources/static/img/qudraty.png ***!
+  \******************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/qudraty.png?ec19ace9819f5566c16e9d29702a084e");
+
+/***/ }),
+
+/***/ "./resources/static/img/surge.png":
+/*!****************************************!*\
+  !*** ./resources/static/img/surge.png ***!
+  \****************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/surge.png?28fadaa49cd8f984b85b41ab640ef509");
+
+/***/ }),
+
+/***/ "./resources/static/img/tailwind.png":
+/*!*******************************************!*\
+  !*** ./resources/static/img/tailwind.png ***!
+  \*******************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/tailwind.png?2c9ad5e72ea3865701dc7c7580169021");
+
+/***/ }),
+
+/***/ "./resources/static/img/teraninja.png":
+/*!********************************************!*\
+  !*** ./resources/static/img/teraninja.png ***!
+  \********************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/teraninja.png?19e038be44ca1ae585d6a7892236c312");
+
+/***/ }),
+
+/***/ "./resources/static/img/typescript.png":
+/*!*********************************************!*\
+  !*** ./resources/static/img/typescript.png ***!
+  \*********************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/typescript.png?b87c6b4de8e99caf2a09e41fe723644b");
+
+/***/ }),
+
+/***/ "./resources/static/img/vue.png":
+/*!**************************************!*\
+  !*** ./resources/static/img/vue.png ***!
+  \**************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/vue.png?23543a4b554054b68b661fb4dc2b9143");
+
+/***/ }),
+
+/***/ "./resources/static/img/wordpress.png":
+/*!********************************************!*\
+  !*** ./resources/static/img/wordpress.png ***!
+  \********************************************/
+/*! namespace exports */
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+/*! other exports [not provided] [no usage info] */
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/wordpress.png?0a264f911f88b55d04c0bf789a75e2ee");
 
 /***/ }),
 
@@ -30604,9 +31252,9 @@ __webpack_require__.r(__webpack_exports__);
 const _hoisted_1 = { class: "education" }
 const _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("section", {
   class: "relative block",
-  style: {"height":"500px"}
+  style: {"height":"540px"}
 }, [
-  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "absolute top-0 w-full h-full bg-center bg-cover backCover" }, [
+  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "absolute top-0 w-full h-full bg-center bg-cover back-cover" }, [
     /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", {
       id: "blackOverlay",
       class: "w-full h-full absolute opacity-50 bg-black"
@@ -30659,12 +31307,7 @@ const _hoisted_17 = { class: "mr-4 p-3 text-center" }
 const _hoisted_18 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Home")
 const _hoisted_19 = { class: "mr-4 p-3 text-center" }
 const _hoisted_20 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Experience")
-const _hoisted_21 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"text-center mt-2\"><h3 class=\"text-4xl font-semibold leading-normal mb-2 text-gray-800 mb-2\"> Ahmed Amged </h3><div class=\"text-sm leading-normal mt-0 mb-2 text-gray-500 font-bold uppercase\"><i class=\"fas fa-map-marker-alt mr-2 text-lg text-gray-500\"></i> Cairo, Egypt </div><div class=\"mb-2 text-gray-700 mt-10\"><i class=\"fas fa-briefcase mr-2 text-lg text-gray-500\"></i>Front End Developer </div><div class=\"mb-2 text-gray-700\"><i class=\"fas fa-university mr-2 text-lg text-gray-500\"></i>Faculty of Computers and Artificial Intelligence, Cairo University </div></div>", 1)
-const _hoisted_22 = { class: "mt-10 py-10 border-t border-gray-300 text-center" }
-const _hoisted_23 = { class: "flex flex-wrap justify-center" }
-const _hoisted_24 = { class: "w-full lg:w-9/12 px-4" }
-const _hoisted_25 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "mb-4 text-lg leading-relaxed text-gray-800" }, " With a strong technical skill-set, attention to details, and 2+ years of Front-end development experience, individual wants to achieve more of digital magic and elevate user experience. ", -1 /* HOISTED */)
-const _hoisted_26 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Show more")
+const _hoisted_21 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex flex-wrap\"><div class=\"lg:w-1/2 text-center mt-5 mb-5\"><h4 class=\"text-2xl font-semibold leading-normal mb-4 text-gray-800\"> Nano-Degrees </h4><p class=\"text-lg font-semibold leading-normal mb-2 text-gray-800 mb-2\"> Front-End Web Developer Nano-degree Program @ Udacity </p><p class=\"text-md font-semibold leading-normal mb-4 text-purple-800\"> June’2019 – Oct’2019 </p><div class=\"text-sm leading-normal mt-0 mb-2 text-gray-500 font-bold uppercase\"><i class=\"fas fa-map-marker-alt mr-2 text-lg text-gray-500\"></i> Cairo, Egypt </div><div class=\"mb-2 text-gray-700 mt-10\"><i class=\"fas fa-university mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">Responsive Design</span></div><div class=\"mb-2 text-gray-700\"><i class=\"fas fa-university mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">CSS &amp; Website Layout</span></div><div class=\"mb-2 text-gray-700\"><i class=\"fas fa-university mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">Web Accessibility and the DOM</span></div><div class=\"mb-2 text-gray-700\"><i class=\"fas fa-university mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">Object-Oriented JavaScript</span></div><div class=\"mb-2 text-gray-700\"><i class=\"fas fa-university mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">JavaScript Tools and Testing</span></div><div class=\"mb-2 text-gray-700\"><i class=\"fas fa-university mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">Web APIs and Asynchronous Applications</span></div><div class=\"mb-2 text-gray-700\"><i class=\"fas fa-university mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">Build Tools, Web pack, and Service Worker</span></div></div><div class=\"lg:w-1/2 mt-5 mb-5 border-l border-gray-300 text-center\"><h4 class=\"text-2xl font-semibold leading-normal mb-4 text-gray-800\"> Courses </h4><p class=\"text-lg font-semibold leading-normal mb-2 text-gray-800 mb-2\"> Front End Development Course @ RTC </p><p class=\"text-md font-semibold leading-normal mb-2 text-purple-800\"> Nov’2018 – Dec’2018 </p><p class=\"text-lg font-semibold leading-normal mb-2 text-gray-800 mb-2\"> Adobe Illustrator Course @ RTC </p><p class=\"text-md font-semibold leading-normal mb-2 text-purple-800\"> Sept’2018 – Oct’2018 </p><p class=\"text-lg font-semibold leading-normal mb-2 text-gray-800 mb-2\"> Web Development Course @ RTC </p><p class=\"text-md font-semibold leading-normal mb-4 text-purple-800\"> Apr’2018 – May’2018 </p><h4 class=\"text-2xl font-semibold leading-normal mt-5 mb-4 text-gray-800\"> Volunteering </h4><p class=\"text-lg font-semibold leading-normal mb-2 text-gray-800 mb-2\"> Front End Development Instructor @ RTC </p><p class=\"text-md font-semibold leading-normal mb-4 text-purple-800\"> Mar’2019 – Mar’2020 </p></div></div>", 1)
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   const _component_router_link = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("router-link")
@@ -30682,7 +31325,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_11, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/education",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-purple-600 hover:bg-purple-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-purple-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_12
@@ -30693,7 +31336,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_13, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/skills",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-purple-600 hover:bg-purple-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-purple-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_14
@@ -30708,7 +31351,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_17, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-purple-600 hover:bg-purple-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-purple-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_18
@@ -30719,7 +31362,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_19, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/experience",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-purple-600 hover:bg-purple-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-purple-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_20
@@ -30730,23 +31373,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                 ])
               ])
             ]),
-            _hoisted_21,
-            (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_22, [
-              (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_23, [
-                (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_24, [
-                  _hoisted_25,
-                  (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
-                    to: "/about",
-                    class: "inline-flex items-center justify-center px-5 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-purple-600 hover:bg-purple-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
-                  }, {
-                    default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
-                      _hoisted_26
-                    ]),
-                    _: 1
-                  })
-                ])
-              ])
-            ])
+            _hoisted_21
           ])
         ])
       ])
@@ -30779,9 +31406,9 @@ __webpack_require__.r(__webpack_exports__);
 const _hoisted_1 = { class: "experience" }
 const _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("section", {
   class: "relative block",
-  style: {"height":"500px"}
+  style: {"height":"540px"}
 }, [
-  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "absolute top-0 w-full h-full bg-center bg-cover backCover" }, [
+  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "absolute top-0 w-full h-full bg-center bg-cover back-cover" }, [
     /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", {
       id: "blackOverlay",
       class: "w-full h-full absolute opacity-50 bg-black"
@@ -30834,12 +31461,7 @@ const _hoisted_17 = { class: "mr-4 p-3 text-center" }
 const _hoisted_18 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Home")
 const _hoisted_19 = { class: "mr-4 p-3 text-center" }
 const _hoisted_20 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Experience")
-const _hoisted_21 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"text-center mt-2\"><h3 class=\"text-4xl font-semibold leading-normal mb-2 text-gray-800 mb-2\"> Ahmed Amged </h3><div class=\"text-sm leading-normal mt-0 mb-2 text-gray-500 font-bold uppercase\"><i class=\"fas fa-map-marker-alt mr-2 text-lg text-gray-500\"></i> Cairo, Egypt </div><div class=\"mb-2 text-gray-700 mt-10\"><i class=\"fas fa-briefcase mr-2 text-lg text-gray-500\"></i>Front End Developer </div><div class=\"mb-2 text-gray-700\"><i class=\"fas fa-university mr-2 text-lg text-gray-500\"></i>Faculty of Computers and Artificial Intelligence, Cairo University </div></div>", 1)
-const _hoisted_22 = { class: "mt-10 py-10 border-t border-gray-300 text-center" }
-const _hoisted_23 = { class: "flex flex-wrap justify-center" }
-const _hoisted_24 = { class: "w-full lg:w-9/12 px-4" }
-const _hoisted_25 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "mb-4 text-lg leading-relaxed text-gray-800" }, " With a strong technical skill-set, attention to details, and 2+ years of Front-end development experience, individual wants to achieve more of digital magic and elevate user experience. ", -1 /* HOISTED */)
-const _hoisted_26 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Show more")
+const _hoisted_21 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"text-center mt-5\"><h4 class=\"text-xl font-semibold leading-normal mb-2 text-gray-800 mb-2\"> Front End Developer @ TeraNinja </h4><p class=\"text-md font-semibold leading-normal mb-4 text-green-800\"> Dec’2019 – Nov’2020 </p><div class=\"text-sm leading-normal mt-0 mb-2 text-gray-500 font-bold uppercase\"><i class=\"fas fa-map-marker-alt mr-2 text-lg text-gray-500\"></i> Cairo, Egypt </div><div class=\"w-100 px-60\"><div class=\"mb-2 text-gray-700 mt-10\"><i class=\"fab fa-angellist mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">Ensured the technical feasibility of UI/UX designs</span></div><div class=\"mb-2 text-gray-700\"><i class=\"fab fa-angellist mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">Worked closely with development teams and UI/UX designers to create usable, elegant, interactive, and responsive interfaces across multiple devices</span></div><div class=\"mb-2 text-gray-700\"><i class=\"fab fa-angellist mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">Optimized applications for maximum scalability</span></div><div class=\"mb-2 text-gray-700\"><i class=\"fab fa-angellist mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">Performed well in a fast-paced environment and bringed in optimal flow for rapidly changing design or technology</span></div><div class=\"mb-2 text-gray-700\"><i class=\"fab fa-angellist mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">Built reusable code for future use</span></div></div></div><div class=\"mt-10 py-10 border-t border-gray-300 text-center mt-5\"><h4 class=\"text-xl font-semibold leading-normal mb-2 text-gray-800 mb-2\"> WordPress Developer @ Qeema Tech </h4><p class=\"text-md font-semibold leading-normal mb-4 text-green-800\"> Oct’2018 – Mar’2019 </p><div class=\"text-sm leading-normal mt-0 mb-2 text-gray-500 font-bold uppercase\"><i class=\"fas fa-map-marker-alt mr-2 text-lg text-gray-500\"></i> Cairo, Egypt </div><div class=\"w-100 px-60\"><div class=\"mb-2 text-gray-700 mt-10\"><i class=\"fab fa-angellist mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">Built and customized themes by adding new features and implementing new functionality</span></div><div class=\"mb-2 text-gray-700\"><i class=\"fab fa-angellist mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">Planned the website’s architecture</span></div><div class=\"mb-2 text-gray-700\"><i class=\"fab fa-angellist mr-2 text-lg text-gray-500\"></i><span class=\"text-black\">Formulated an effective, responsive design and managed technical issues of the CMS</span></div></div></div>", 2)
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   const _component_router_link = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("router-link")
@@ -30857,7 +31479,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_11, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/education",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-green-600 hover:bg-green-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-green-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_12
@@ -30868,7 +31490,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_13, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/skills",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-green-600 hover:bg-green-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-green-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_14
@@ -30883,7 +31505,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_17, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-green-600 hover:bg-green-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-green-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_18
@@ -30894,7 +31516,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_19, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/experience",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-green-600 hover:bg-green-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-green-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_20
@@ -30905,23 +31527,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                 ])
               ])
             ]),
-            _hoisted_21,
-            (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_22, [
-              (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_23, [
-                (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_24, [
-                  _hoisted_25,
-                  (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
-                    to: "/about",
-                    class: "inline-flex items-center justify-center px-5 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-green-600 hover:bg-green-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
-                  }, {
-                    default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
-                      _hoisted_26
-                    ]),
-                    _: 1
-                  })
-                ])
-              ])
-            ])
+            _hoisted_21
           ])
         ])
       ])
@@ -31100,6 +31706,42 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 /* harmony import */ var _static_img_ahmed_800x800_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./../../static/img/ahmed-800x800.jpg */ "./resources/static/img/ahmed-800x800.jpg");
+/* harmony import */ var _static_img_ahmed_amged_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./../../static/img/ahmed-amged.png */ "./resources/static/img/ahmed-amged.png");
+/* harmony import */ var _static_img_qudraty_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./../../static/img/qudraty.png */ "./resources/static/img/qudraty.png");
+/* harmony import */ var _static_img_hr_management_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./../../static/img/hr-management.png */ "./resources/static/img/hr-management.png");
+/* harmony import */ var _static_img_mohamy_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./../../static/img/mohamy.png */ "./resources/static/img/mohamy.png");
+/* harmony import */ var _static_img_aladdos_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./../../static/img/aladdos.png */ "./resources/static/img/aladdos.png");
+/* harmony import */ var _static_img_modarsy_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./../../static/img/modarsy.png */ "./resources/static/img/modarsy.png");
+/* harmony import */ var _static_img_teraninja_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./../../static/img/teraninja.png */ "./resources/static/img/teraninja.png");
+/* harmony import */ var _static_img_noor_azzony_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./../../static/img/noor-azzony.png */ "./resources/static/img/noor-azzony.png");
+/* harmony import */ var _static_img_jasmine_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./../../static/img/jasmine.png */ "./resources/static/img/jasmine.png");
+/* harmony import */ var _static_img_arcade_game_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./../../static/img/arcade-game.png */ "./resources/static/img/arcade-game.png");
+/* harmony import */ var _static_img_matching_game_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./../../static/img/matching-game.png */ "./resources/static/img/matching-game.png");
+/* harmony import */ var _static_img_am_stones_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./../../static/img/am-stones.png */ "./resources/static/img/am-stones.png");
+/* harmony import */ var _static_img_elsewedy_electric_png__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./../../static/img/elsewedy-electric.png */ "./resources/static/img/elsewedy-electric.png");
+/* harmony import */ var _static_img_avalanche_png__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./../../static/img/avalanche.png */ "./resources/static/img/avalanche.png");
+/* harmony import */ var _static_img_mouja_telecom_png__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./../../static/img/mouja-telecom.png */ "./resources/static/img/mouja-telecom.png");
+/* harmony import */ var _static_img_kol_youm_png__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./../../static/img/kol-youm.png */ "./resources/static/img/kol-youm.png");
+/* harmony import */ var _static_img_mohannad_bahnasy_png__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./../../static/img/mohannad-bahnasy.png */ "./resources/static/img/mohannad-bahnasy.png");
+/* harmony import */ var _static_img_hurghada_tours_png__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./../../static/img/hurghada-tours.png */ "./resources/static/img/hurghada-tours.png");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -31107,9 +31749,9 @@ __webpack_require__.r(__webpack_exports__);
 const _hoisted_1 = { class: "profile" }
 const _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("section", {
   class: "relative block",
-  style: {"height":"500px"}
+  style: {"height":"540px"}
 }, [
-  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "absolute top-0 w-full h-full bg-center bg-cover backCover" }, [
+  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "absolute top-0 w-full h-full bg-center bg-cover back-cover" }, [
     /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", {
       id: "blackOverlay",
       class: "w-full h-full absolute opacity-50 bg-black"
@@ -31162,12 +31804,614 @@ const _hoisted_17 = { class: "mr-4 p-3 text-center" }
 const _hoisted_18 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Home")
 const _hoisted_19 = { class: "mr-4 p-3 text-center" }
 const _hoisted_20 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Experience")
-const _hoisted_21 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"text-center mt-2\"><h3 class=\"text-4xl font-semibold leading-normal mb-2 text-gray-800 mb-2\"> Ahmed Amged </h3><div class=\"text-sm leading-normal mt-0 mb-2 text-gray-500 font-bold uppercase\"><i class=\"fas fa-map-marker-alt mr-2 text-lg text-gray-500\"></i> Cairo, Egypt </div><div class=\"mb-2 text-gray-700 mt-10\"><i class=\"fas fa-briefcase mr-2 text-lg text-gray-500\"></i>Front End Developer </div><div class=\"mb-2 text-gray-700\"><i class=\"fas fa-university mr-2 text-lg text-gray-500\"></i>Faculty of Computers and Artificial Intelligence, Cairo University </div></div>", 1)
-const _hoisted_22 = { class: "mt-10 py-10 border-t border-gray-300 text-center" }
-const _hoisted_23 = { class: "flex flex-wrap justify-center" }
-const _hoisted_24 = { class: "w-full lg:w-9/12 px-4" }
-const _hoisted_25 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "mb-8 text-lg leading-relaxed text-gray-800" }, " With a strong technical skill-set, attention to details, and 2+ years of Front-end development experience, individual wants to achieve more of digital magic and elevate user experience. ", -1 /* HOISTED */)
-const _hoisted_26 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Show more")
+const _hoisted_21 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-center mt-2" }, [
+  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h3", { class: "text-4xl font-semibold leading-normal mb-2 text-gray-800 mb-2" }, " Ahmed Amged "),
+  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm leading-normal mt-0 mb-2 text-gray-500 font-bold uppercase" }, [
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("i", { class: "fas fa-map-marker-alt mr-2 text-lg text-gray-500" }),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Cairo, Egypt ")
+  ]),
+  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "mb-2 text-gray-700 mt-10" }, [
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("i", { class: "fas fa-briefcase mr-2 text-lg text-gray-500" }),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("Front End Developer ")
+  ]),
+  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "mb-2 text-gray-700" }, [
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("i", { class: "fas fa-university mr-2 text-lg text-gray-500" }),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("Faculty of Computers and Artificial Intelligence, Cairo University ")
+  ])
+], -1 /* HOISTED */)
+const _hoisted_22 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "mt-10 py-10 border-t border-gray-300 text-center" }, [
+  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap justify-center" }, [
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-9/12 px-4" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "mb-8 text-lg leading-relaxed text-gray-800" }, " With a strong technical skill-set, attention to details, and 2+ years of Front-end development experience, individual wants to achieve more of digital magic and elevate user experience. ")
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap px-6" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "#" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_ahmed_amged_png__WEBPACK_IMPORTED_MODULE_2__.default,
+                alt: "Ahmed Amged",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "#",
+                class: "hover:no-underline"
+              }, " Ahmed Amged ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2021 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#Vue3 "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#Tailwindcss "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#Laravel ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "http://qudraty.com" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_qudraty_png__WEBPACK_IMPORTED_MODULE_3__.default,
+                alt: "Qudraty",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "http://qudraty.com",
+                class: "hover:no-underline"
+              }, " Qudraty ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2020 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#JavaScript "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#Laravel ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "https://vitohr-33580.web.app" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_hr_management_png__WEBPACK_IMPORTED_MODULE_4__.default,
+                alt: "HR Management",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "https://vitohr-33580.web.app",
+                class: "hover:no-underline"
+              }, " HR Management ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2020 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#Angular "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#Firebase "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#TypeScript ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap px-6" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "https://mohamy.app" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_mohamy_png__WEBPACK_IMPORTED_MODULE_5__.default,
+                alt: "Mohamy",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "https://mohamy.app",
+                class: "hover:no-underline"
+              }, " Mohamy ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2020 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#JavaScript "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#Laravel ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "http://aladdos-lawfirm.com" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_aladdos_png__WEBPACK_IMPORTED_MODULE_6__.default,
+                alt: "Al Addos",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "http://aladdos-lawfirm.com",
+                class: "hover:no-underline"
+              }, " Al Addos ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2020 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#JavaScript "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#Laravel ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "https://modarsy.com" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_modarsy_png__WEBPACK_IMPORTED_MODULE_7__.default,
+                alt: "Modarsy",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "https://modarsy.com",
+                class: "hover:no-underline"
+              }, " Modarsy ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2020 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#WordPress ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap px-6" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "https://www.teraninja.com" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_teraninja_png__WEBPACK_IMPORTED_MODULE_8__.default,
+                alt: "TeraNinja",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "https://www.teraninja.com",
+                class: "hover:no-underline"
+              }, " TeraNinja ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2020 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#WordPress ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "https://ahmedamged.github.io/balain" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_noor_azzony_png__WEBPACK_IMPORTED_MODULE_9__.default,
+                alt: "Noor Azzony",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "https://ahmedamged.github.io/balain",
+                class: "hover:no-underline"
+              }, " Noor Azzony ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2019 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#HTML "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "https://ahmedamged.github.io/fend4" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_jasmine_png__WEBPACK_IMPORTED_MODULE_10__.default,
+                alt: "Udacity RSS Feed",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "https://ahmedamged.github.io/fend4",
+                class: "hover:no-underline"
+              }, " Udacity RSS Feed ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2019 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#Jasmine "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#Unit_Testing ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap px-6" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "https://ahmedamged.github.io/fend3" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_arcade_game_png__WEBPACK_IMPORTED_MODULE_11__.default,
+                alt: "Arcade Game",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "https://ahmedamged.github.io/fend3",
+                class: "hover:no-underline"
+              }, " Arcade Game ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2019 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#JavaScript "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#ES6 "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#HTML ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "https://ahmedamged.github.io/fend2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_matching_game_png__WEBPACK_IMPORTED_MODULE_12__.default,
+                alt: "Matching Game",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "https://ahmedamged.github.io/fend2/",
+                class: "hover:no-underline"
+              }, " Matching Game ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2019 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#JavaScript "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#ES6 "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#HTML "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "http://amstones-eg.com" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_am_stones_png__WEBPACK_IMPORTED_MODULE_13__.default,
+                alt: "AM Stones",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "http://amstones-eg.com",
+                class: "hover:no-underline"
+              }, " AM Stones ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2018 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#HTML "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#WordPress ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap px-6" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "http://united-hydraulics.com/Cables/" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_elsewedy_electric_png__WEBPACK_IMPORTED_MODULE_14__.default,
+                alt: "Elsewedy Electric",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "http://united-hydraulics.com/Cables/",
+                class: "hover:no-underline"
+              }, " Elsewedy Electric ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2018 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#HTML "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#WordPress ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "http://avalanche-eg.com" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_avalanche_png__WEBPACK_IMPORTED_MODULE_15__.default,
+                alt: "Avalanche",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "http://avalanche-eg.com",
+                class: "hover:no-underline"
+              }, " Avalanche ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2018 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#HTML "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#WordPress ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "http://almoujatelecom.com" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_mouja_telecom_png__WEBPACK_IMPORTED_MODULE_16__.default,
+                alt: "Mouja Telecom",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "http://almoujatelecom.com",
+                class: "hover:no-underline"
+              }, " Mouja Telecom ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2018 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#HTML "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#WordPress ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap px-6" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "https://kol-youm.com" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_kol_youm_png__WEBPACK_IMPORTED_MODULE_17__.default,
+                alt: "Kol Youm",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "https://kol-youm.com",
+                class: "hover:no-underline"
+              }, " Kol Youm ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2018 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#HTML "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#PHP ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "https://www.mohannadbahnasy.com/" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_mohannad_bahnasy_png__WEBPACK_IMPORTED_MODULE_18__.default,
+                alt: "Mohannad Bahnasy",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "https://www.mohannadbahnasy.com/",
+                class: "hover:no-underline"
+              }, " Mohannad Bahnasy ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2018 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#HTML "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#WordPress ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-full lg:w-1/3 md:px-4 lg:px-6 py-4" }, [
+        /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "bg-white shadow-2xl hover:shadow-md rounded-3xl transform hover:translate-y-2 transition duration-500 ease-in-out" }, [
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", { href: "http://hurgadatours.com" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+                src: _static_img_hurghada_tours_png__WEBPACK_IMPORTED_MODULE_19__.default,
+                alt: "Hurghada Tours",
+                class: "h-56 w-full border-white rounded-tl-3xl rounded-tr-3xl cursor-pointer"
+              })
+            ])
+          ]),
+          /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "px-4 py-4 md:px-10" }, [
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("h1", { class: "font-bold text-lg text-left" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("a", {
+                href: "http://hurgadatours.com",
+                class: "hover:no-underline"
+              }, " Hurghada Tours ")
+            ]),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "pb-3 pt-2 text-left" }, " Lorem ipsum dolor sit amet consectetur adipisicing elit. "),
+            /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap pt-3 border-t-2" }, [
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:w-1/3 text-sm font-medium" }, " 2018 "),
+              /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "w-auto md:2/3 ml-auto" }, [
+                /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "text-sm font-medium" }, [
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#HTML "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#CSS "),
+                  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", { class: "" }, "#WordPress ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  ])
+], -1 /* HOISTED */)
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   const _component_router_link = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("router-link")
@@ -31185,7 +32429,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_11, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/education",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-indigo-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_12
@@ -31196,7 +32440,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_13, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/skills",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-indigo-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_14
@@ -31211,7 +32455,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_17, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-indigo-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_18
@@ -31222,7 +32466,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_19, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/experience",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-indigo-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_20
@@ -31234,22 +32478,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
               ])
             ]),
             _hoisted_21,
-            (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_22, [
-              (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_23, [
-                (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_24, [
-                  _hoisted_25,
-                  (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
-                    to: "/about",
-                    class: "inline-flex items-center justify-center px-5 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
-                  }, {
-                    default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
-                      _hoisted_26
-                    ]),
-                    _: 1
-                  })
-                ])
-              ])
-            ])
+            _hoisted_22
           ])
         ])
       ])
@@ -31275,6 +32504,42 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 /* harmony import */ var _static_img_ahmed_800x800_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./../../static/img/ahmed-800x800.jpg */ "./resources/static/img/ahmed-800x800.jpg");
+/* harmony import */ var _static_img_html5_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./../../static/img/html5.png */ "./resources/static/img/html5.png");
+/* harmony import */ var _static_img_css33_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./../../static/img/css33.png */ "./resources/static/img/css33.png");
+/* harmony import */ var _static_img_javascript_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./../../static/img/javascript.png */ "./resources/static/img/javascript.png");
+/* harmony import */ var _static_img_es6_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./../../static/img/es6.png */ "./resources/static/img/es6.png");
+/* harmony import */ var _static_img_angular_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./../../static/img/angular.png */ "./resources/static/img/angular.png");
+/* harmony import */ var _static_img_git_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./../../static/img/git.png */ "./resources/static/img/git.png");
+/* harmony import */ var _static_img_vue_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./../../static/img/vue.png */ "./resources/static/img/vue.png");
+/* harmony import */ var _static_img_tailwind_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./../../static/img/tailwind.png */ "./resources/static/img/tailwind.png");
+/* harmony import */ var _static_img_firebase_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./../../static/img/firebase.png */ "./resources/static/img/firebase.png");
+/* harmony import */ var _static_img_typescript_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./../../static/img/typescript.png */ "./resources/static/img/typescript.png");
+/* harmony import */ var _static_img_bootstrap_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./../../static/img/bootstrap.png */ "./resources/static/img/bootstrap.png");
+/* harmony import */ var _static_img_gulp_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./../../static/img/gulp.png */ "./resources/static/img/gulp.png");
+/* harmony import */ var _static_img_jasmine_unit_testing_png__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./../../static/img/jasmine-unit-testing.png */ "./resources/static/img/jasmine-unit-testing.png");
+/* harmony import */ var _static_img_surge_png__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./../../static/img/surge.png */ "./resources/static/img/surge.png");
+/* harmony import */ var _static_img_ajax_png__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./../../static/img/ajax.png */ "./resources/static/img/ajax.png");
+/* harmony import */ var _static_img_jquery_png__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./../../static/img/jquery.png */ "./resources/static/img/jquery.png");
+/* harmony import */ var _static_img_wordpress_png__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./../../static/img/wordpress.png */ "./resources/static/img/wordpress.png");
+/* harmony import */ var _static_img_adobe_illustrator_png__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./../../static/img/adobe-illustrator.png */ "./resources/static/img/adobe-illustrator.png");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -31282,9 +32547,9 @@ __webpack_require__.r(__webpack_exports__);
 const _hoisted_1 = { class: "skills" }
 const _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("section", {
   class: "relative block",
-  style: {"height":"500px"}
+  style: {"height":"540px"}
 }, [
-  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "absolute top-0 w-full h-full bg-center bg-cover backCover" }, [
+  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "absolute top-0 w-full h-full bg-center bg-cover back-cover" }, [
     /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("span", {
       id: "blackOverlay",
       class: "w-full h-full absolute opacity-50 bg-black"
@@ -31337,12 +32602,158 @@ const _hoisted_17 = { class: "mr-4 p-3 text-center" }
 const _hoisted_18 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Home")
 const _hoisted_19 = { class: "mr-4 p-3 text-center" }
 const _hoisted_20 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Experience")
-const _hoisted_21 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"text-center mt-2\"><h3 class=\"text-4xl font-semibold leading-normal mb-2 text-gray-800 mb-2\"> Ahmed Amged </h3><div class=\"text-sm leading-normal mt-0 mb-2 text-gray-500 font-bold uppercase\"><i class=\"fas fa-map-marker-alt mr-2 text-lg text-gray-500\"></i> Cairo, Egypt </div><div class=\"mb-2 text-gray-700 mt-10\"><i class=\"fas fa-briefcase mr-2 text-lg text-gray-500\"></i>Front End Developer </div><div class=\"mb-2 text-gray-700\"><i class=\"fas fa-university mr-2 text-lg text-gray-500\"></i>Faculty of Computers and Artificial Intelligence, Cairo University </div></div>", 1)
-const _hoisted_22 = { class: "mt-10 py-10 border-t border-gray-300 text-center" }
-const _hoisted_23 = { class: "flex flex-wrap justify-center" }
-const _hoisted_24 = { class: "w-full lg:w-9/12 px-4" }
-const _hoisted_25 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "mb-4 text-lg leading-relaxed text-gray-800" }, " With a strong technical skill-set, attention to details, and 2+ years of Front-end development experience, individual wants to achieve more of digital magic and elevate user experience. ", -1 /* HOISTED */)
-const _hoisted_26 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Show more")
+const _hoisted_21 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap" }, [
+  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "lg:w-1/3 text-center mt-5 mb-16 px-20" }, [
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "HTML5"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_html5_png__WEBPACK_IMPORTED_MODULE_2__.default,
+        class: "w-10 h-10 opacity-25 ml-auto",
+        alt: "HTML5"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "CSS3"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_css33_png__WEBPACK_IMPORTED_MODULE_3__.default,
+        class: "w-9 h-9 opacity-25 ml-auto",
+        alt: "CSS3"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "JavaScript"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_javascript_png__WEBPACK_IMPORTED_MODULE_4__.default,
+        class: "w-9 h-9 opacity-25 ml-auto",
+        alt: "JavaScript"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "ES6"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_es6_png__WEBPACK_IMPORTED_MODULE_5__.default,
+        class: "w-9 h-9 opacity-25 ml-auto",
+        alt: "ES6"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "Angular 2+"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_angular_png__WEBPACK_IMPORTED_MODULE_6__.default,
+        class: "w-9 h-9 opacity-25 ml-auto",
+        alt: "Angular 2+"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "Git"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_git_png__WEBPACK_IMPORTED_MODULE_7__.default,
+        class: "w-9 h-9 opacity-25 ml-auto",
+        alt: "Git"
+      })
+    ])
+  ]),
+  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "lg:w-1/3 mt-5 mb-16 px-20 border-l border-gray-300 text-center" }, [
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "Vue3"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_vue_png__WEBPACK_IMPORTED_MODULE_8__.default,
+        class: "w-10 h-10 opacity-25 ml-auto",
+        alt: "Vue3"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "Tailwind CSS"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_tailwind_png__WEBPACK_IMPORTED_MODULE_9__.default,
+        class: "w-12 h-9 opacity-25 ml-auto",
+        alt: "Tailwind"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "Firebase"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_firebase_png__WEBPACK_IMPORTED_MODULE_10__.default,
+        class: "w-9 h-9 opacity-25 ml-auto",
+        alt: "Firebase"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "Typescript"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_typescript_png__WEBPACK_IMPORTED_MODULE_11__.default,
+        class: "w-9 h-9 opacity-25 ml-auto",
+        alt: "Typescript"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "Bootstrap"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_bootstrap_png__WEBPACK_IMPORTED_MODULE_12__.default,
+        class: "w-9 h-9 opacity-25 ml-auto",
+        alt: "Bootstrap"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "Gulp js"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_gulp_png__WEBPACK_IMPORTED_MODULE_13__.default,
+        class: "w-9 h-9 opacity-25 ml-auto",
+        alt: "Gulp js"
+      })
+    ])
+  ]),
+  /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "lg:w-1/3 mt-5 mb-16 px-20 border-l border-gray-300 text-center" }, [
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "Jasmine"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_jasmine_unit_testing_png__WEBPACK_IMPORTED_MODULE_14__.default,
+        class: "w-10 h-10 opacity-25 ml-auto",
+        alt: "Jasmine"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "Surge"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_surge_png__WEBPACK_IMPORTED_MODULE_15__.default,
+        class: "w-9 h-9 opacity-25 ml-auto",
+        alt: "Surge"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "AJAX"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_ajax_png__WEBPACK_IMPORTED_MODULE_16__.default,
+        class: "h-9 opacity-25 ml-auto",
+        alt: "AJAX"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "jQuery"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_jquery_png__WEBPACK_IMPORTED_MODULE_17__.default,
+        class: "w-9 h-9 opacity-25 ml-auto",
+        alt: "jQuery"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "WordPress"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_wordpress_png__WEBPACK_IMPORTED_MODULE_18__.default,
+        class: "w-9 h-9 opacity-25 ml-auto",
+        alt: "WordPress"
+      })
+    ]),
+    /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", { class: "flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center" }, [
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("p", { class: "text-lg font-semibold leading-normal mt-2" }, "Illustrator"),
+      /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
+        src: _static_img_adobe_illustrator_png__WEBPACK_IMPORTED_MODULE_19__.default,
+        class: "w-9 h-9 opacity-25 ml-auto",
+        alt: "Illustrator"
+      })
+    ])
+  ])
+], -1 /* HOISTED */)
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   const _component_router_link = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("router-link")
@@ -31360,7 +32771,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_11, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/education",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-yellow-600 hover:bg-yellow-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-yellow-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_12
@@ -31371,7 +32782,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_13, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/skills",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-yellow-600 hover:bg-yellow-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-yellow-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_14
@@ -31386,7 +32797,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_17, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-yellow-600 hover:bg-yellow-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-yellow-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_18
@@ -31397,7 +32808,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                   (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_19, [
                     (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
                       to: "/experience",
-                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-yellow-600 hover:bg-yellow-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
+                      class: "inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md hover:text-white hover:bg-yellow-600 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
                     }, {
                       default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
                         _hoisted_20
@@ -31408,23 +32819,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
                 ])
               ])
             ]),
-            _hoisted_21,
-            (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_22, [
-              (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_23, [
-                (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", _hoisted_24, [
-                  _hoisted_25,
-                  (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
-                    to: "/about",
-                    class: "inline-flex items-center justify-center px-5 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-yellow-600 hover:bg-yellow-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out hover:no-underline"
-                  }, {
-                    default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
-                      _hoisted_26
-                    ]),
-                    _: 1
-                  })
-                ])
-              ])
-            ])
+            _hoisted_21
           ])
         ])
       ])

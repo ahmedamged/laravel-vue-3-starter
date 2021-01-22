@@ -31651,7 +31651,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
       (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("div", {
         class: ["lg:flex flex-grow items-center lg:bg-transparent lg:shadow-none", {'hidden': !$data.showMenu, 'block': $data.showMenu, 'bg-transparent': !$data.showMenu, 'bg-white': $data.showMenu}]
       }, [
-        (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" <ul class=\"flex flex-col lg:flex-row list-none mr-auto\">\r\n            <li class=\"flex items-center\">\r\n              <a\r\n                class=\"lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold outline-none\"\r\n                href=\"#\"\r\n                ><i\r\n                  class=\"lg:text-gray-300 text-gray-500 far fa-file-alt text-lg leading-lg mr-2\"\r\n                ></i>\r\n                Docs</a\r\n              >\r\n            </li>\r\n          </ul> "),
+        (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" <ul class=\"flex flex-col lg:flex-row list-none mr-auto\">\r\n              <li class=\"flex items-center\">\r\n                <a\r\n                  class=\"lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold outline-none\"\r\n                  href=\"#\"\r\n                  ><i\r\n                    class=\"lg:text-gray-300 text-gray-500 far fa-file-alt text-lg leading-lg mr-2\"\r\n                  ></i>\r\n                  Docs</a\r\n                >\r\n              </li>\r\n            </ul> "),
         _hoisted_6
       ], 2 /* CLASS */)
     ])

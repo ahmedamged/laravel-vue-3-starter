@@ -3,11 +3,9 @@
   <main class="skills">
     <section class="relative block" style="height: 540px;">
       <div class="absolute top-0 w-full h-full bg-center bg-cover back-cover">
-        <span id="blackOverlay"
-              class="w-full h-full absolute opacity-50 bg-black"></span>
+        <span id="blackOverlay" class="w-full h-full absolute opacity-50 bg-black"></span>
       </div>
-      <div class="top-auto bottom-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden"
-           style="height: 70px; transform: translateZ(0px);">
+      <div class="top-auto bottom-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden" style="height: 70px; transform: translateZ(0px);">
         <svg class="absolute bottom-0 overflow-hidden"
              xmlns="http://www.w3.org/2000/svg"
              preserveAspectRatio="none"
@@ -15,11 +13,11 @@
              viewBox="0 0 2560 100"
              x="0"
              y="0">
-            <polygon
-              class="text-gray-300 fill-current"
-              points="2560 0 2560 100 0 100"
-            ></polygon>
-          </svg>
+              <polygon
+                class="text-gray-300 fill-current"
+                points="2560 0 2560 100 0 100"
+              ></polygon>
+            </svg>
       </div>
     </section>
     <section class="relative py-16 bg-gray-300">
@@ -90,65 +88,65 @@
                   <p class="text-lg font-semibold leading-normal mt-2">Git</p>
                   <img src="./../../static/img/git.png" class="w-9 h-9 opacity-25 ml-auto" alt="Git">
                 </div>
+              </div>
+              <div class="lg:w-1/3 mt-5 mb-16 px-20 border-l border-gray-300 text-center">
+                <div class="flex flex-wrap shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">Vue3</p>
+                  <img src="./../../static/img/vue.png" class="w-10 h-10 opacity-25 ml-auto" alt="Vue3">
                 </div>
-                <div class="lg:w-1/3 mt-5 mb-16 px-20 border-l border-gray-300 text-center">
-                  <div class="flex flex-wrap shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
-                    <p class="text-lg font-semibold leading-normal mt-2">Vue3</p>
-                    <img src="./../../static/img/vue.png" class="w-10 h-10 opacity-25 ml-auto" alt="Vue3">
-                  </div>
-                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
-                    <p class="text-lg font-semibold leading-normal mt-2">Tailwind CSS</p>
-                    <img src="./../../static/img/tailwind.png" class="w-12 h-9 opacity-25 ml-auto" alt="Tailwind">
-                  </div>
-                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
-                    <p class="text-lg font-semibold leading-normal mt-2">Firebase</p>
-                    <img src="./../../static/img/firebase.png" class="w-9 h-9 opacity-25 ml-auto" alt="Firebase">
-                  </div>
-                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
-                    <p class="text-lg font-semibold leading-normal mt-2">Typescript</p>
-                    <img src="./../../static/img/typescript.png" class="w-9 h-9 opacity-25 ml-auto" alt="Typescript">
-                  </div>
-                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
-                    <p class="text-lg font-semibold leading-normal mt-2">Bootstrap</p>
-                    <img src="./../../static/img/bootstrap.png" class="w-9 h-9 opacity-25 ml-auto" alt="Bootstrap">
-                  </div>
-                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
-                    <p class="text-lg font-semibold leading-normal mt-2">Gulp js</p>
-                    <img src="./../../static/img/gulp.png" class="w-9 h-9 opacity-25 ml-auto" alt="Gulp js">
-                  </div>
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">Tailwind CSS</p>
+                  <img src="./../../static/img/tailwind.png" class="w-12 h-9 opacity-25 ml-auto" alt="Tailwind">
                 </div>
-                <div class="lg:w-1/3 mt-5 mb-16 px-20 border-l border-gray-300 text-center">
-                  <div class="flex flex-wrap shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
-                    <p class="text-lg font-semibold leading-normal mt-2">Jasmine</p>
-                    <img src="./../../static/img/jasmine-unit-testing.png" class="w-10 h-10 opacity-25 ml-auto" alt="Jasmine">
-                  </div>
-                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
-                    <p class="text-lg font-semibold leading-normal mt-2">Surge</p>
-                    <img src="./../../static/img/surge.png" class="w-9 h-9 opacity-25 ml-auto" alt="Surge">
-                  </div>
-                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
-                    <p class="text-lg font-semibold leading-normal mt-2">AJAX</p>
-                    <img src="./../../static/img/ajax.png" class="h-9 opacity-25 ml-auto" alt="AJAX">
-                  </div>
-                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
-                    <p class="text-lg font-semibold leading-normal mt-2">jQuery</p>
-                    <img src="./../../static/img/jquery.png" class="w-9 h-9 opacity-25 ml-auto" alt="jQuery">
-                  </div>
-                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
-                    <p class="text-lg font-semibold leading-normal mt-2">WordPress</p>
-                    <img src="./../../static/img/wordpress.png" class="w-9 h-9 opacity-25 ml-auto" alt="WordPress">
-                  </div>
-                  <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
-                    <p class="text-lg font-semibold leading-normal mt-2">Illustrator</p>
-                    <img src="./../../static/img/adobe-illustrator.png" class="w-9 h-9 opacity-25 ml-auto" alt="Illustrator">
-                  </div>
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">Firebase</p>
+                  <img src="./../../static/img/firebase.png" class="w-9 h-9 opacity-25 ml-auto" alt="Firebase">
+                </div>
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">Typescript</p>
+                  <img src="./../../static/img/typescript.png" class="w-9 h-9 opacity-25 ml-auto" alt="Typescript">
+                </div>
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">Bootstrap</p>
+                  <img src="./../../static/img/bootstrap.png" class="w-9 h-9 opacity-25 ml-auto" alt="Bootstrap">
+                </div>
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">Gulp js</p>
+                  <img src="./../../static/img/gulp.png" class="w-9 h-9 opacity-25 ml-auto" alt="Gulp js">
+                </div>
+              </div>
+              <div class="lg:w-1/3 mt-5 mb-16 px-20 border-l border-gray-300 text-center">
+                <div class="flex flex-wrap shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">Jasmine</p>
+                  <img src="./../../static/img/jasmine-unit-testing.png" class="w-10 h-10 opacity-25 ml-auto" alt="Jasmine">
+                </div>
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">Surge</p>
+                  <img src="./../../static/img/surge.png" class="w-9 h-9 opacity-25 ml-auto" alt="Surge">
+                </div>
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">AJAX</p>
+                  <img src="./../../static/img/ajax.png" class="h-9 opacity-25 ml-auto" alt="AJAX">
+                </div>
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">jQuery</p>
+                  <img src="./../../static/img/jquery.png" class="w-9 h-9 opacity-25 ml-auto" alt="jQuery">
+                </div>
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">WordPress</p>
+                  <img src="./../../static/img/wordpress.png" class="w-9 h-9 opacity-25 ml-auto" alt="WordPress">
+                </div>
+                <div class="flex flex-wrap mt-4 shadow-md border border-transparent rounded-xl px-4 py-3 justify-center">
+                  <p class="text-lg font-semibold leading-normal mt-2">Illustrator</p>
+                  <img src="./../../static/img/adobe-illustrator.png" class="w-9 h-9 opacity-25 ml-auto" alt="Illustrator">
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section>
-    </main>
+      </div>
+    </section>
+  </main>
 
 </template>
 

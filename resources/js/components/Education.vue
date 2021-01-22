@@ -3,11 +3,9 @@
   <main class="education">
     <section class="relative block" style="height: 540px;">
       <div class="absolute top-0 w-full h-full bg-center bg-cover back-cover">
-        <span id="blackOverlay"
-              class="w-full h-full absolute opacity-50 bg-black"></span>
+        <span id="blackOverlay" class="w-full h-full absolute opacity-50 bg-black"></span>
       </div>
-      <div class="top-auto bottom-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden"
-           style="height: 70px; transform: translateZ(0px);">
+      <div class="top-auto bottom-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden" style="height: 70px; transform: translateZ(0px);">
         <svg class="absolute bottom-0 overflow-hidden"
              xmlns="http://www.w3.org/2000/svg"
              preserveAspectRatio="none"
@@ -15,11 +13,11 @@
              viewBox="0 0 2560 100"
              x="0"
              y="0">
-            <polygon
-              class="text-gray-300 fill-current"
-              points="2560 0 2560 100 0 100"
-            ></polygon>
-          </svg>
+              <polygon
+                class="text-gray-300 fill-current"
+                points="2560 0 2560 100 0 100"
+              ></polygon>
+            </svg>
       </div>
     </section>
     <section class="relative py-16 bg-gray-300">
@@ -79,72 +77,72 @@
                   <i class="fas fa-map-marker-alt mr-2 text-lg text-gray-500"></i> Cairo, Egypt
                 </div>
                 <div class="mb-2 text-gray-700 mt-10">
-                    <i class="fas fa-university mr-2 text-lg text-gray-500"></i>
-                    <span class="text-black">Responsive Design</span>
-                  </div>
-                  <div class="mb-2 text-gray-700">
-                    <i class="fas fa-university mr-2 text-lg text-gray-500"></i>
-                    <span class="text-black">CSS &amp; Website Layout</span>
-                  </div>
-                  <div class="mb-2 text-gray-700">
-                    <i class="fas fa-university mr-2 text-lg text-gray-500"></i>
-                    <span class="text-black">Web Accessibility and the DOM</span>
-                  </div>
-                  <div class="mb-2 text-gray-700">
-                    <i class="fas fa-university mr-2 text-lg text-gray-500"></i>
-                    <span class="text-black">Object-Oriented JavaScript</span>
-                  </div>
-                  <div class="mb-2 text-gray-700">
-                    <i class="fas fa-university mr-2 text-lg text-gray-500"></i>
-                    <span class="text-black">JavaScript Tools and Testing</span>
-                  </div>
-                  <div class="mb-2 text-gray-700">
-                    <i class="fas fa-university mr-2 text-lg text-gray-500"></i>
-                    <span class="text-black">Web APIs and Asynchronous Applications</span>
-                  </div>
-                  <div class="mb-2 text-gray-700">
-                    <i class="fas fa-university mr-2 text-lg text-gray-500"></i>
-                    <span class="text-black">Build Tools, Web pack, and Service Worker</span>
-                  </div>
+                  <i class="fas fa-university mr-2 text-lg text-gray-500"></i>
+                  <span class="text-black">Responsive Design</span>
                 </div>
-                <div class="lg:w-1/2 mt-5 mb-5 border-l border-gray-300 text-center">
-                  <h4 class="text-2xl font-semibold leading-normal mb-4 text-gray-800">
-                    Courses
-                  </h4>
-                  <p class="text-lg font-semibold leading-normal mb-2 text-gray-800 mb-2">
-                    Front End Development Course @ RTC
-                  </p>
-                  <p class="text-md font-semibold leading-normal mb-2 text-purple-800">
-                    Nov’2018 – Dec’2018
-                  </p>
-                  <p class="text-lg font-semibold leading-normal mb-2 text-gray-800 mb-2">
-                    Adobe Illustrator Course @ RTC
-                  </p>
-                  <p class="text-md font-semibold leading-normal mb-2 text-purple-800">
-                    Sept’2018 – Oct’2018
-                  </p>
-                  <p class="text-lg font-semibold leading-normal mb-2 text-gray-800 mb-2">
-                    Web Development Course @ RTC
-                  </p>
-                  <p class="text-md font-semibold leading-normal mb-4 text-purple-800">
-                    Apr’2018 – May’2018
-                  </p>
-                  <h4 class="text-2xl font-semibold leading-normal mt-5 mb-4 text-gray-800">
-                    Volunteering
-                  </h4>
-                  <p class="text-lg font-semibold leading-normal mb-2 text-gray-800 mb-2">
-                    Front End Development Instructor @ RTC
-                  </p>
-                  <p class="text-md font-semibold leading-normal mb-4 text-purple-800">
-                    Mar’2019 – Mar’2020
-                  </p>
+                <div class="mb-2 text-gray-700">
+                  <i class="fas fa-university mr-2 text-lg text-gray-500"></i>
+                  <span class="text-black">CSS &amp; Website Layout</span>
                 </div>
-            </div>
+                <div class="mb-2 text-gray-700">
+                  <i class="fas fa-university mr-2 text-lg text-gray-500"></i>
+                  <span class="text-black">Web Accessibility and the DOM</span>
+                </div>
+                <div class="mb-2 text-gray-700">
+                  <i class="fas fa-university mr-2 text-lg text-gray-500"></i>
+                  <span class="text-black">Object-Oriented JavaScript</span>
+                </div>
+                <div class="mb-2 text-gray-700">
+                  <i class="fas fa-university mr-2 text-lg text-gray-500"></i>
+                  <span class="text-black">JavaScript Tools and Testing</span>
+                </div>
+                <div class="mb-2 text-gray-700">
+                  <i class="fas fa-university mr-2 text-lg text-gray-500"></i>
+                  <span class="text-black">Web APIs and Asynchronous Applications</span>
+                </div>
+                <div class="mb-2 text-gray-700">
+                  <i class="fas fa-university mr-2 text-lg text-gray-500"></i>
+                  <span class="text-black">Build Tools, Web pack, and Service Worker</span>
+                </div>
+              </div>
+              <div class="lg:w-1/2 mt-5 mb-5 border-l border-gray-300 text-center">
+                <h4 class="text-2xl font-semibold leading-normal mb-4 text-gray-800">
+                  Courses
+                </h4>
+                <p class="text-lg font-semibold leading-normal mb-2 text-gray-800 mb-2">
+                  Front End Development Course @ RTC
+                </p>
+                <p class="text-md font-semibold leading-normal mb-2 text-purple-800">
+                  Nov’2018 – Dec’2018
+                </p>
+                <p class="text-lg font-semibold leading-normal mb-2 text-gray-800 mb-2">
+                  Adobe Illustrator Course @ RTC
+                </p>
+                <p class="text-md font-semibold leading-normal mb-2 text-purple-800">
+                  Sept’2018 – Oct’2018
+                </p>
+                <p class="text-lg font-semibold leading-normal mb-2 text-gray-800 mb-2">
+                  Web Development Course @ RTC
+                </p>
+                <p class="text-md font-semibold leading-normal mb-4 text-purple-800">
+                  Apr’2018 – May’2018
+                </p>
+                <h4 class="text-2xl font-semibold leading-normal mt-5 mb-4 text-gray-800">
+                  Volunteering
+                </h4>
+                <p class="text-lg font-semibold leading-normal mb-2 text-gray-800 mb-2">
+                  Front End Development Instructor @ RTC
+                </p>
+                <p class="text-md font-semibold leading-normal mb-4 text-purple-800">
+                  Mar’2019 – Mar’2020
+                </p>
+              </div>
             </div>
           </div>
         </div>
-      </section>
-    </main>
+      </div>
+    </section>
+  </main>
 
 </template>
 

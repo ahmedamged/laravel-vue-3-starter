@@ -101,7 +101,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created using laravel-mix, tailwind CSS and Vue 3.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -133,7 +133,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created at TeraNinja using laravel and vanilla JavaScript.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -165,7 +165,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created at TeraNinja using Angular 2+, TypeScript and Firebase.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -199,7 +199,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created at TeraNinja using laravel and vanilla JavaScript.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -231,7 +231,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created at TeraNinja using laravel and vanilla JavaScript.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -263,7 +263,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created Using WordPress and CSS at TeraNinja.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -296,7 +296,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created Using WordPress and CSS at TeraNinja.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -327,7 +327,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created using HTML and CSS for a specific client.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -358,7 +358,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Used Jasmine framework to apply unit testing at Udacity Nano-degree.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -391,7 +391,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created Using JavaScript and ES6 at Udacity Nano-degree.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -424,7 +424,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created Using JavaScript and ES6 at Udacity Nano-degree.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -457,7 +457,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created Using WordPress and CSS at Qeema Tech.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -491,7 +491,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created Using WordPress and CSS at Qeema Tech.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -523,7 +523,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created Using WordPress and CSS at Qeema Tech.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -555,7 +555,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created Using WordPress and CSS at Qeema Tech.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -589,7 +589,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created Using WordPress and CSS at Qeema Tech.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -621,7 +621,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created Using WordPress and CSS at Qeema Tech.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">
@@ -653,7 +653,7 @@
                                     </a>
                                 </h1>
                                 <p class="pb-3 pt-2 text-left">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Created Using WordPress and CSS at Qeema Tech.
                                 </p>
                                 <div class="flex flex-wrap pt-3 border-t-2">
                                     <div class="w-auto md:w-1/3 text-sm font-medium">

@@ -15,18 +15,6 @@
             </button>
       </div>
       <div class="lg:flex flex-grow items-center lg:bg-transparent lg:shadow-none" v-bind:class="{'hidden': !showMenu, 'block': showMenu, 'bg-transparent': !showMenu, 'bg-white': showMenu}">
-        <!-- <ul class="flex flex-col lg:flex-row list-none mr-auto">
-              <li class="flex items-center">
-                <a
-                  class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold outline-none"
-                  href="#"
-                  ><i
-                    class="lg:text-gray-300 text-gray-500 far fa-file-alt text-lg leading-lg mr-2"
-                  ></i>
-                  Docs</a
-                >
-              </li>
-            </ul> -->
         <ul class="flex flex-col lg:flex-row list-none lg:ml-auto">
           <li class="flex items-center">
             <a class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold hover:no-underline"
@@ -50,7 +38,7 @@
                 </a>
           </li>
           <li class="flex items-center">
-            <button class="bg-gray-400 text-gray-800 active:bg-gray-100 text-xs font-bold uppercase px-4 py-3 rounded-lg shadow hover:shadow-md outline-none focus:outline-none lg:mr-1 lg:mb-0 ml-3 hover:bg-white focus:bg-gray-200"
+              <button @click="onClick" class="bg-gray-400 text-gray-800 active:bg-gray-100 text-xs font-bold uppercase px-4 py-3 rounded-lg shadow hover:shadow-md outline-none focus:outline-none lg:mr-1 lg:mb-0 ml-3 hover:bg-white focus:bg-gray-200"
 
                     type="button"
                     style="transition: all 0.15s ease 0s;">
@@ -65,16 +53,35 @@
 </template>
 <script>
 
+import axios from 'axios';
+const F_URL = process.env.MIX_APP_URL;
+
   export default {
     data() {
       return {
-        showMenu: false
+        showMenu: false,
       }
     },
     methods: {
       toggleNavbar: function() {
         this.showMenu = !this.showMenu
-      }
+      },
+      onClick: function() {
+              axios({
+                    url: `${F_URL}ahmedamged.pdf`,
+                    method: 'GET',
+                    responseType: 'blob',
+                }).then((response) => {
+                     var fileURL = window.URL.createObjectURL(new Blob([response.data]));
+                     var fileLink = document.createElement('a');
+
+                     fileLink.href = fileURL;
+                     fileLink.setAttribute('download', 'ahmedamged.pdf');
+                     document.body.appendChild(fileLink);
+
+                     fileLink.click();
+                });
+          }
     }
   }
 

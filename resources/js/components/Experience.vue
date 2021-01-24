@@ -88,7 +88,7 @@
                 </div>
                 <div class="mb-2 px-12 text-gray-700">
                   <i class="fab fa-angellist mr-2 text-lg text-gray-500"></i>
-                  <span class="text-black">Performed well in a fast-paced environment and bringed in optimal flow for rapidly changing design or technology</span>
+                  <span class="text-black">Performed well in a fast-paced environment and brought in optimal flow for rapidly changing design or technology</span>
                 </div>
                 <div class="mb-2 px-12 text-gray-700">
                   <i class="fab fa-angellist mr-2 text-lg text-gray-500"></i>

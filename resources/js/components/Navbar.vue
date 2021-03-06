@@ -14,8 +14,8 @@
               <i class="text-white fas fa-bars"></i>
             </button>
       </div>
-      <div class="lg:flex flex-grow items-center lg:bg-transparent lg:shadow-none" v-bind:class="{'hidden': !showMenu, 'block': showMenu, 'bg-transparent': !showMenu, 'bg-white': showMenu}">
-        <ul class="flex flex-col lg:flex-row list-none lg:ml-auto">
+      <div class="lg:flex flex-grow items-center rounded-lg lg:bg-transparent lg:shadow-none" v-bind:class="{'hidden': !showMenu, 'block': showMenu, 'bg-transparent': !showMenu, 'bg-white': showMenu}">
+        <ul class="flex flex-col lg:flex-row list-none lg:ml-auto items-center pb-4 pt-3">
           <li class="flex items-center">
             <a class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold hover:no-underline"
                href="https://www.linkedin.com/in/ahmedamged">
